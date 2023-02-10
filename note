@@ -1,0 +1,8 @@
+https://themes.gohugo.io/themes/poison/#:~:text=Poison%20is%20a%20clean%2C%20professional,out%20and%20take%20a%20look).
+  1 hugo new site blog
+  2
+  3 hugo server
+  4
+  5 git submodule <git-hugo-link> theme/<hugo-theme-name>
+  6
+  7 hugo new test.md
